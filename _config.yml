@@ -1,3 +1,5 @@
 title: Noticias
 markdown: kramdown
 theme: minima
+include:
+  - reports
